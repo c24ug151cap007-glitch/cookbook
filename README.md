@@ -1,4 +1,5 @@
-cook book demo link video https://github.com/c24ug151cap007-glitch/cookbook.git
+cook book demo link video 
+
 
 # Getting Started with Create React App
 
